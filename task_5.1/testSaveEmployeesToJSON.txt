@@ -1,0 +1,5 @@
+{ "rate" : "1000" , "salary" : "1000.0" , "hoursWorked" : "160.0" }
+{ "rate" : "1500" , "salary" : "1875.0" , "hoursWorked" : "200.0" }
+{ "rate" : "450" , "salary" : "140.625" , "hoursWorked" : "50.0" }
+{ "rate" : "500" , "salary" : "0.0" , "hoursWorked" : "300.0" }
+{ "rate" : "300" , "salary" : "281.25" , "hoursWorked" : "150.0" }
